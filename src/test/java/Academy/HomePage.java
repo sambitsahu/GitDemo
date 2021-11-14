@@ -34,7 +34,7 @@ public class HomePage extends base{
 	{
 
 		//one is inheritance
-		//new jenkins job added
+		//new jenkins job added 1st
 
 		// creating object to that class and invoke methods of it
 		driver.get(prop.getProperty("url"));
